@@ -39,8 +39,8 @@
 ## 💯 [Give our repo](https://github.com/Ayan-thecodeking/Amazing-Frontend-Templates.git) a star 🌟 
 
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Mentro-Community-Blog)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-red.svg?style=flat&logo=git)](https://github.com/Mentro-Org/Mentro-Community-Blog) 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-red.svg?style=flat&logo=git)](https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates) 
 
 </div>
 
@@ -127,6 +127,7 @@ Refer to the following articles on the basics of Git and Github and can also con
 - Copied templates or designs won't be considered 
 - Avoid spams 
 - Make genuine contributions 
+ - Adding Screenshots and recordings are mandatory to add while making a PR.
 
 </i>
 
